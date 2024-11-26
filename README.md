@@ -1,3 +1,5 @@
+# Desenvolvido por: Otávio Augusto Ficagna (195749) e Henrique Linck Poerschke (179791)
+
 # DeepStep - Roguelike de Turnos
 
 Bem-vindo ao **DeepStep**, um jogo roguelike de turnos desenvolvido com Unity. Este projeto explora os princípios básicos de jogos roguelike, incluindo geração procedural, e combate estratégico por turnos.
